@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Basilick
 - 👀 I’m interested in web design, UI/UX Frontend
 - 🌱 I’m currently learning angular js
-- 💞️ I’m looking to collaborate on generador estudio
 - 📫 How to reach me soyali298@gmail.com
 
 <!---
