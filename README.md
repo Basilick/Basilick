@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦖 Hi, thanks for visiting my profile. I´m a Sr Web Designer open to colaborate in any proyect. My passion is travel around the world and 
+🦖 Hi, thanks for visiting my profile.<br>🦤 Sr Web Designer open to colaborate in any proyect. <br>🛸 My passion is travel around the world and 
 the graphic design.
 
 ## 🌐 Socials:
